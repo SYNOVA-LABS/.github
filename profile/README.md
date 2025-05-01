@@ -5,7 +5,7 @@ SYNOVA LABS is an innovative project focused on developing advanced AI agents fo
 
 ## Projects
 
-### <a href="https://github.com/SYNOVA-LABS/ADA">ADA</a>
+### <a href="https://github.com/Proximum-AI/ADA">ADA</a>
 
 ADA (Advanced Digital Agent) is my latest project, designed to be a JARVIS-like AI assistant that can answer questions like Siri but with enhanced contextual awareness of the world around you. As an admin, you have complete control over every action and capability of this agent.
 
@@ -29,4 +29,4 @@ SYNOVA LABS was created by Haider Malik who is a Software Engineering student at
 - [YouTube](https://youtube.com/@GreenByteCode)
 
 ## License
-[MIT License](https://github.com/SYNOVA-LABS/.github/blob/main/assets/LICENCE)
+[MIT License](https://github.com/Proximum-AI/.github/blob/main/assets/LICENCE)
