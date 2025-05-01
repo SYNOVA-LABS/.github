@@ -1,4 +1,4 @@
-<img src="https://github.com/SYNOVA-LABS/.github/blob/main/assets/synova-labs.svg" alt="SYNOVA LABS Logo" height="200">
+<img src="https://github.com/Proximum-AI/.github/blob/main/assets/proximum-logo.svg" alt="Logo" height="400">
 
 ## Overview
 SYNOVA LABS is an innovative project focused on developing advanced AI agents for real-world applications. Our mission is to create intelligent systems that can understand and interact with the world in meaningful ways, pushing the boundaries of what's possible with artificial intelligence.
